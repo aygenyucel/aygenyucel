@@ -9,7 +9,8 @@ I graduated from Epicode School and I have a Bachelor of Engineering focused in 
 I have experience working with a range of programming languages and technologies. I am passionate about keeping up-to-date with the latest technologies and industry trends.
 
 ## Skills and Experience
-![JavaScript](https://icons8.com/icon/106036/javascript-logo) JavaScript
+![image](https://user-images.githubusercontent.com/80033565/229315977-a63dc00c-57bb-4392-ba9b-1339063e6fdc.png)
+ JavaScript
 
  / React / TypeScript / Redux / Node.js / Express.js / MongoDB / PostgreSQL / HTML / CSS / SASS
 
