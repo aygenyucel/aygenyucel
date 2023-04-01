@@ -9,7 +9,7 @@ I graduated from Epicode School and I have a Bachelor of Engineering focused in 
 I have experience working with a range of programming languages and technologies. I am passionate about keeping up-to-date with the latest technologies and industry trends.
 
 ##Skills and Experience
-(https://github.com/aygenyucel/aygenyucel/blob/main/banner.png) JavaScript
+![JavaScript](https://github.com/aygenyucel/aygenyucel/blob/main/banner.png) JavaScript
 
  / React / TypeScript / Redux / Node.js / Express.js / MongoDB / PostgreSQL / HTML / CSS / SASS
 
