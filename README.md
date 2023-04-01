@@ -8,6 +8,9 @@ I graduated from Epicode School and I have a Bachelor of Engineering focused in 
 
 I have experience working with a range of programming languages and technologies. I am passionate about keeping up-to-date with the latest technologies and industry trends.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aygenyucel)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Skills and Experience
 <img src='https://user-images.githubusercontent.com/80033565/229316203-41693aa7-a7d1-43c1-a99d-7ed7dc432377.png' height='15'> JavaScript
 
