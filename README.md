@@ -8,9 +8,6 @@ I graduated from Epicode School and I have a Bachelor of Engineering focused in 
 
 I have experience working with a range of programming languages and technologies. I am passionate about keeping up-to-date with the latest technologies and industry trends.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aygenyucel)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## Skills and Experience
 <img src='https://user-images.githubusercontent.com/80033565/229316203-41693aa7-a7d1-43c1-a99d-7ed7dc432377.png' height='15'> JavaScript
 
@@ -27,6 +24,11 @@ I have experience working with a range of programming languages and technologies
 <img src='https://user-images.githubusercontent.com/80033565/229316486-08abe3d4-e982-48bb-aa7d-7bddf164d6b6.png' height='15'> MongoDB
 
 <img src='https://user-images.githubusercontent.com/80033565/229316438-74a48598-8b96-47d9-95f3-7b54c43c57fa.png' height='15'> PostgreSQL
+
+##
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aygenyucel)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <div align="center">
   <span><a href="https://github.com/aygenyucel"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30' width='70'></a></span>
