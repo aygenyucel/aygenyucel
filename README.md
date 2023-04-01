@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I'm Aygen Yucel
 
-I'm Aygen from Turkey. I am a full-stack developer with a passion for building and designing web applications.
+I'm Aygen from Turkey. I am a full stack web developer with a passion for building and designing web applications.
 
 I graduated from Epicode School and I have a Bachelor of Engineering focused in Computer Engineering from Ege University.
 
