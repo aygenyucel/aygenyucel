@@ -1,4 +1,7 @@
-![Full Stack Web Development](https://github.com/aygenyucel/aygenyucel/blob/main/banner.png)
+![Full Stack Web Development](https://github.com/aygenyucel/aygenyucel/blob/main/banner2.png)
+
+### Hi there 👋, Aygen Yucel
+#### Full Stack Web Development
 
 I'm Aygen from Turkey. I am a full-stack developer with a passion for building and designing web applications.
 
