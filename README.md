@@ -9,9 +9,10 @@ I graduated from Epicode School and I have a Bachelor of Engineering focused in 
 I have experience working with a range of programming languages and technologies. I am passionate about keeping up-to-date with the latest technologies and industry trends.
 
 ## Skills and Experience
-<img src='https://user-images.githubusercontent.com/80033565/229316107-6fe7d577-4ac4-4986-b254-c37bfad92174.png' height='20'> JavaScript
-<img src='https://user-images.githubusercontent.com/80033565/229316107-6fe7d577-4ac4-4986-b254-c37bfad92174.png' height='20'> React
-<img src='https://user-images.githubusercontent.com/80033565/229316107-6fe7d577-4ac4-4986-b254-c37bfad92174.png' height='20'> TypeScript
+<img src='https://user-images.githubusercontent.com/80033565/229316203-41693aa7-a7d1-43c1-a99d-7ed7dc432377.png' height='20'> JavaScript
+
+<img src='https://user-images.githubusercontent.com/80033565/229316234-4b77164d-0660-4e93-8dc5-b1a11185a5ba.png' height='20'> React
+<img src='https://user-images.githubusercontent.com/80033565/229316223-0f91a2a8-e38e-41f4-aaf9-289014cc7b3f.png' height='20'> TypeScript
 <img src='https://user-images.githubusercontent.com/80033565/229316107-6fe7d577-4ac4-4986-b254-c37bfad92174.png' height='20'> Redux
 <img src='https://user-images.githubusercontent.com/80033565/229316107-6fe7d577-4ac4-4986-b254-c37bfad92174.png' height='20'> Node.js
 <img src='https://user-images.githubusercontent.com/80033565/229316107-6fe7d577-4ac4-4986-b254-c37bfad92174.png' height='20'> Express.js
