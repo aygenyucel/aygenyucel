@@ -15,13 +15,13 @@ I have experience working with a range of programming languages and technologies
 
 <img src='https://user-images.githubusercontent.com/80033565/229316263-a470e97f-1e09-4d01-9823-715d35189a66.png' height='15'> TypeScript
 
-<img src='https://user-images.githubusercontent.com/80033565/229316287-46c49482-3818-44e7-8193-bfab99acb8b1.png' height='15'> Redux
+<img src='https://user-images.githubusercontent.com/80033565/229316475-657a8659-c62f-425a-a8e6-e72d54beea75.png' height='15'> Redux
 
 <img src='https://user-images.githubusercontent.com/80033565/229316300-f625fe2b-03ac-4b06-a4e1-25b6ff1b7b84.png' height='15'> Node.js
 
 <img src='https://user-images.githubusercontent.com/80033565/229316320-cc6499a9-124b-4495-a9e4-8855eda13fdb.png' height='15'> Express.js
 
-<img src='https://user-images.githubusercontent.com/80033565/229316421-206768c9-0566-4af2-92d0-6eb803f30b4c.png' height='15'> MongoDB
+<img src='https://user-images.githubusercontent.com/80033565/229316486-08abe3d4-e982-48bb-aa7d-7bddf164d6b6.png' height='15'> MongoDB
 
 <img src='https://user-images.githubusercontent.com/80033565/229316438-74a48598-8b96-47d9-95f3-7b54c43c57fa.png' height='15'> PostgreSQL
 
