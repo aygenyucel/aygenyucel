@@ -1,6 +1,6 @@
 ![Full Stack Web Development](https://github.com/aygenyucel/aygenyucel/blob/main/banner.png)
 
-### Hi there 👋, I'm Aygen Yucel
+## Hi there 👋, I'm Aygen Yucel
 
 I'm Aygen from Turkey. I am a full stack web developer with a passion for building and designing web applications.
 
@@ -8,7 +8,7 @@ I graduated from Epicode School and I have a Bachelor of Engineering focused in 
 
 I have experience working with a range of programming languages and technologies. I am passionate about keeping up-to-date with the latest technologies and industry trends.
 
-## Skills and Experience
+### Skills and Experience
 <img src='https://user-images.githubusercontent.com/80033565/229316203-41693aa7-a7d1-43c1-a99d-7ed7dc432377.png' height='15'> JavaScript
 
 <img src='https://user-images.githubusercontent.com/80033565/229316234-4b77164d-0660-4e93-8dc5-b1a11185a5ba.png' height='15'> React
