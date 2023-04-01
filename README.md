@@ -21,9 +21,9 @@ I have experience working with a range of programming languages and technologies
 
 <img src='https://user-images.githubusercontent.com/80033565/229316320-cc6499a9-124b-4495-a9e4-8855eda13fdb.png' height='15'> Express.js
 
-<img src='https://user-images.githubusercontent.com/80033565/229316335-99ea7663-d4dc-48e3-800b-0a5b5f64ebb8.png' height='15'> MongoDB
+<img src='https://user-images.githubusercontent.com/80033565/229316421-206768c9-0566-4af2-92d0-6eb803f30b4c.png' height='15'> MongoDB
 
-<img src='https://user-images.githubusercontent.com/80033565/229316352-f3971901-863d-4b95-819a-6f718beac9f4.png' height='15'> PostgreSQL
+<img src='https://user-images.githubusercontent.com/80033565/229316438-74a48598-8b96-47d9-95f3-7b54c43c57fa.png' height='15'> PostgreSQL
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/aygenyucel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/aygenyucel/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='30'>](https://stackoverflow.com/users/19501613)  
 
