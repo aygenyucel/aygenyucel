@@ -26,9 +26,9 @@ I have experience working with a range of programming languages and technologies
 <img src='https://user-images.githubusercontent.com/80033565/229316438-74a48598-8b96-47d9-95f3-7b54c43c57fa.png' height='15'> PostgreSQL
 
 <div align="center">
-  <span><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30' width='300'></span>
-  <span><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'></span> <!--invisible-->
-  <span><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='30'></span>
+  <span><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30' width='100'></span>
+  <span><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30' width='100'></span> <!--invisible-->
+  <span><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='30' width='100'></span>
 </div>
 
 
