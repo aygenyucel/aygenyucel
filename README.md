@@ -6,21 +6,21 @@
 
 
 ### I'm Aygen Yucel, Jr Full Stack Developer based in Turkey
+<br/>
 
-- 🏢 I'm currently working as a Frontend Developer intern at <a href="https://silverbrain.ai/" target="_blank" style="text-decoration: none">**Silver Brain AI AG**</a> 
+🏢 I'm currently working as a Frontend Developer intern at <a href="https://silverbrain.ai/" target="_blank" style="text-decoration: none">**Silver Brain AI AG**</a> 
 
-- ⚙️ I use daily: `.js`, `.html`, `.css`
+⚙️ I use daily: `.js`, `.html`, `.css`
 
-- 🌱 Focusing on mastering **Typescript** & **Next.js**
+🌱 Focusing on mastering **Typescript** & **Next.js**
 
 <!-- - ⚡️ Fun fact:  -->
-
 <!-- 👨‍💻 Current project  -->
 
 ##
 
 <div display="flex" align="center">
-  <h4>Connect with Me 🤝🏻 </h4>
+  <h3>Connect with Me 🤝🏻 </h4>
 
   [![Linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=default)](https://www.linkedin.com/in/aygenyucel/)
   [![Website](https://img.shields.io/badge/-website%20%E2%99%A5-000?style=for-the-badge&logo=&logoColor=white)](https://aygenyucel.netlify.app/)
@@ -31,7 +31,7 @@
 ##
 
 <div align="center">
-  <h4>Tech Stack</h4> 
+  <h3>Tech Stack</h4> 
 
   ![HTML](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=default)
   ![CSS](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=default)
