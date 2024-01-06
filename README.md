@@ -33,19 +33,19 @@
 <div align="center">
   <h3>Tech Stack</h4> 
 
-  ![HTML](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=default)
-  ![CSS](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=default)
-  ![JS](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=default)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Typescript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=default)
-  ![Nextjs](https://img.shields.io/badge/next.js-20232A?style=for-the-badge&logo=next%20js&logoColor=default)
-  ![SASS](https://img.shields.io/badge/Sass-20232A?style=for-the-badge&logo=sass&logoColor=default)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=Bootstrap&logoColor=default)
-  ![Nodejs](https://img.shields.io/badge/node%20js-20232A?style=for-the-badge&logo=node.js&logoColor=default)
-  ![Expressjs](https://img.shields.io/badge/express%20js-20232A?style=for-the-badge&logo=express&logoColor=default)
-  ![Redux](https://img.shields.io/badge/redux-20232A?style=for-the-badge&logo=redux&logoColor=default)
-  ![Mongodb](https://img.shields.io/badge/mongodb-20232A?style=for-the-badge&logo=mongodb&logoColor=default)
-  ![Postgresql](https://img.shields.io/badge/postgresql-20232A?style=for-the-badge&logo=postgresql&logoColor=default)
+  [![HTML](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=default)](#)
+  [![CSS](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=default)](#)
+[  ![JS](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=default)](#)
+  [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
+  [![Typescript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=default)](#)
+  [![Nextjs](https://img.shields.io/badge/next.js-20232A?style=for-the-badge&logo=next%20js&logoColor=default)](#)
+  [![SASS](https://img.shields.io/badge/Sass-20232A?style=for-the-badge&logo=sass&logoColor=default)](#)
+  [![Bootstrap](https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=Bootstrap&logoColor=default)](#)
+  [![Nodejs](https://img.shields.io/badge/node%20js-20232A?style=for-the-badge&logo=node.js&logoColor=default)](#)
+  [![Expressjs](https://img.shields.io/badge/express%20js-20232A?style=for-the-badge&logo=express&logoColor=default)](#)
+  [![Redux](https://img.shields.io/badge/redux-20232A?style=for-the-badge&logo=redux&logoColor=default)](#)
+  [![Mongodb](https://img.shields.io/badge/mongodb-20232A?style=for-the-badge&logo=mongodb&logoColor=default)](#)
+  [![Postgresql](https://img.shields.io/badge/postgresql-20232A?style=for-the-badge&logo=postgresql&logoColor=default)](#)
 
 </div>
 
