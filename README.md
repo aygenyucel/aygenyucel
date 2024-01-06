@@ -22,9 +22,9 @@
 <div display="flex" align="center">
   <h3>Connect with Me 🤝🏻 </h4>
 
-  [![Linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=default)](https://www.linkedin.com/in/aygenyucel/)
-  [![Website](https://img.shields.io/badge/-website%20%E2%99%A5-000?style=for-the-badge&logo=&logoColor=white)](https://aygenyucel.netlify.app/)
-  [![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aygenyucel@outlook.com)
+  [![Linkedin](https://img.shields.io/badge/linkedin-FF9019?style=for-the-badge&logo=linkedin&logoColor=default)](https://www.linkedin.com/in/aygenyucel/)
+  [![Website](https://img.shields.io/badge/-website%20%E2%99%A5-FF9019?style=for-the-badge&logo=&logoColor=white)](https://aygenyucel.netlify.app/)
+  [![Email](https://img.shields.io/badge/-Email-FF9019?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aygenyucel@outlook.com)
 
 </div>
 
