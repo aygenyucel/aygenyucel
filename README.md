@@ -1,40 +1,88 @@
-![Full Stack Web Development](https://github.com/aygenyucel/aygenyucel/blob/main/banner.png)
 
-# Hi there 👋
 
-I'm Aygen from Turkey. I am a full stack web developer with a passion for building and designing web applications.
 
-I graduated from Epicode School and I have a Bachelor of Engineering focused in Computer Engineering from Ege University.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0F74E7&vCenter=true&random=false&width=435&lines=Hello+there!)](https://git.io/typing-svg)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aygenyucel&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-I have experience working with a range of programming languages and technologies. I am passionate about keeping up-to-date with the latest technologies and industry trends.
 
-## Skills and Experience
-<img src='https://user-images.githubusercontent.com/80033565/229316203-41693aa7-a7d1-43c1-a99d-7ed7dc432377.png' height='15'> JavaScript
+### I'm Aygen Yucel, Jr Full Stack Developer based in Turkey
 
-<img src='https://user-images.githubusercontent.com/80033565/229316234-4b77164d-0660-4e93-8dc5-b1a11185a5ba.png' height='15'> React
+- 🏢 I'm currently working as a Frontend Developer intern at <a href="https://silverbrain.ai/" target="_blank">**Silver Brain AI AG**</a> 
 
-<img src='https://user-images.githubusercontent.com/80033565/229316263-a470e97f-1e09-4d01-9823-715d35189a66.png' height='15'> TypeScript
+- ⚙️ I use daily: `.js`, `.html`, `.css`
 
-<img src='https://user-images.githubusercontent.com/80033565/229316511-20e1c49f-c8b7-4625-b9ba-fc1747d7aaba.png' height='15'> Redux
+- 🌱 Focusing on mastering **Typescript** & **Next.js**
 
-<img src='https://user-images.githubusercontent.com/80033565/229316300-f625fe2b-03ac-4b06-a4e1-25b6ff1b7b84.png' height='15'> Node.js
+<!-- - ⚡️ Fun fact:  -->
 
-<img src='https://user-images.githubusercontent.com/80033565/229316320-cc6499a9-124b-4495-a9e4-8855eda13fdb.png' height='15'> Express.js
-
-<img src='https://user-images.githubusercontent.com/80033565/229316486-08abe3d4-e982-48bb-aa7d-7bddf164d6b6.png' height='15'> MongoDB
-
-<img src='https://user-images.githubusercontent.com/80033565/229316438-74a48598-8b96-47d9-95f3-7b54c43c57fa.png' height='15'> PostgreSQL
+<!-- 👨‍💻 Current project  -->
 
 ##
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aygenyucel)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<div align="center">
-  <span><a href="https://github.com/aygenyucel"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30' width='70'></a></span>
-  <span><a href="https://www.linkedin.com/in/aygenyucel/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30' width='70'></a></span> <!--invisible-->
-  <span> <a href="https://stackoverflow.com/users/19501613/aygen-yucel"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='30' width='70'></a></span>
+<div display="flex" align="center">
+    <h4>Connect with Me 🤝🏻 </h4> 
+    <a href="https://www.linkedin.com/in/aygenyucel/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"
+    style="border-radius:10%">
+    </a>
+    <a href="https://aygenyucel.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-website%20%E2%99%A5-%23E4405F?style=for-the-badge&logo=&logoColor=white" target="_blank"
+    style="border-radius:10%">
+    </a>
+    <a href = "mailto:aygenyucel@outlook.com">
+    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"
+    style="border-radius:10%">
+    </a>
+    
 </div>
+
+##
+<div align="center">
+  <h4>Tech Stack</h4>
+   <a href="https://html.spec.whatwg.org/multipage/" target="_blank">
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=default" style="border-radius:10%">
+  </a>
+  <a href="https://www.w3.org/Style/CSS/" target="_blank">
+     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=default" style="border-radius:10%">
+  </a>
+  <a href="https://www.javascript.com/" target="_blank">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=default" style="border-radius:10%">
+  </a>
+ <a href="https://react.dev/" target="_blank">
+   <img alt="react" src="https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=default" style="border-radius:10%">
+  </a>
+   <a href="https://www.typescriptlang.org/" target="_blank">
+   <img alt="typescript" src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=default" style="border-radius:10%">
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+   <img alt="nextjs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next%20js&logoColor=default" style="border-radius:10%">
+  </a>
+ <a href="https://sass-lang.com/" target="_blank">
+    <img alt="Sass" src="https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=default" style="border-radius:10%">
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=Bootstrap&logoColor=default" style="border-radius:10%">
+  </a>
+  
+  <a href="https://nodejs.org/" target="_blank">
+    <img alt="nodejs" src="https://img.shields.io/badge/node%20js-000000?style=for-the-badge&logo=node.js&logoColor=default" style="border-radius:10%">
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img alt="express" src="https://img.shields.io/badge/express%20js-000000?style=for-the-badge&logo=express&logoColor=default" style="border-radius:10%">
+  </a>
+ 
+  <a href="https://redux.js.org/" target="_blank">
+   <img alt="redux" src="https://img.shields.io/badge/redux-000000?style=for-the-badge&logo=redux&logoColor=default" style="border-radius:10%">
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+   <img alt="mongodb" src="https://img.shields.io/badge/mongodb-000000?style=for-the-badge&logo=mongodb&logoColor=default" style="border-radius:10%">
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+   <img alt="postgresql" src="https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=default" style="border-radius:10%">
+  </a>
+</div>
+
+
+
 
 
 
