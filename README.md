@@ -5,10 +5,10 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aygenyucel&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-### I'm Aygen Yucel, Jr Full Stack Developer based in Turkey
+### I'm Aygen Yucel, a Computer Engineer based in Turkey
 <br/>
 
-🏢 I'm currently working as a Frontend Developer intern at <a href="https://silverbrain.ai/" target="_blank" style="text-decoration: none">**Silver Brain AI AG**</a> 
+🏢 I'm currently working as a Frontend Developer at <a href="https://silverbrain.ai/" target="_blank" style="text-decoration: none">**Silver Brain AI AG**</a> 
 
 ⚙️ I use daily: `.js`, `.html`, `.css`
 
