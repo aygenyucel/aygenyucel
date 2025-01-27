@@ -8,11 +8,11 @@
 ### I'm Aygen Yucel, a Computer Engineer based in Turkey
 <br/>
 
-🏢 I'm currently working as a Frontend Developer at <a href="https://silverbrain.ai/" target="_blank" style="text-decoration: none">**Silver Brain AI AG**</a> 
+🏢 I'm currently working as a Fullstack Developer at <a href="https://janoschka.com/" target="_blank" style="text-decoration: none">**Janoschka**</a> 
 
-⚙️ I use daily: `.js`, `.html`, `.css`
+⚙️ I use daily: `C#`, `.Net Framework`, `JavaScript`, `Angular`
 
-🌱 Focusing on mastering **Typescript** & **Next.js**
+🌱 Focusing on mastering **Typescript** & **Angular**
 
 <!-- ⚡️ Fun fact:  -->
 <!-- 👨‍💻 Current project  -->
